@@ -1,2 +1,10 @@
-# core_flutter
-![WhatsApp Image 2022-07-16 at 5 15 55 PM (1)](https://user-images.githubusercontent.com/111631451/185784145-bea711c5-1dc8-404a-9f25-969a231842fc.jpeg)
+# Invoice_Generator
+
+## Features
+- You can add your company logo , invoice date & invoice duedate.
+- You are able to enter your customer's and your details as well.
+- You can get the total with GST by Entering the item name , quantity & rate..
+- You can also preview the PDF and download & share it.
+
+## Screen Shot 
+- ![WhatsApp Image 2022-08-21 at 2 50 08 PM](https://user-images.githubusercontent.com/111631451/185784402-18d3e6ae-55e3-4973-b78a-634fb244d200.jpeg)
