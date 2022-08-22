@@ -1,16 +1,5 @@
 # color_pallete_generator
 
-A new Flutter project.
+## Screen shot 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2022-08-22 at 11 12 36 AM](https://user-images.githubusercontent.com/111631451/185847433-e2c640ab-da61-4c60-ade2-bd31bcb53421.jpeg)
